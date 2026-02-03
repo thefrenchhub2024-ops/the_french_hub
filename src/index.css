@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom Theme - THE FRENCH HUB Design System */
+@theme {
+  --color-primary: #0B2C4D;
+  --color-accent: #E63946;
+  --color-background: #FAF6F0;
+  --color-text: #2E2E2E;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #FAF6F0;
+  color: #2E2E2E;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Offset anchor scrolling for the fixed navbar */
+section {
+  scroll-margin-top: 90px;
+}
+
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
