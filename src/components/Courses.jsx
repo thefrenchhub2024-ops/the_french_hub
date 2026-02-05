@@ -43,8 +43,8 @@ const courses = [
     ],
   },
   {
-    title: 'IGCSC French Coaching',
-    description: 'Specialized coaching aligned with IGCSC French curriculum, focusing on exams, grammar, and speaking skills.',
+    title: 'IGCSE French Coaching',
+    description: 'Specialized coaching aligned with IGCSE French curriculum, focusing on exams, grammar, and speaking skills.',
     icon: '🏫',
     details: [],
   },

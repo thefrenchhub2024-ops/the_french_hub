@@ -38,14 +38,14 @@ function Hero() {
             >
               Expert coaching for <span className="font-semibold text-white">DELF / DALF, and TEF</span> exams,
   along with Spoken French training (A-Level & B-Level). We also provide academic support for
-  <span className="font-semibold text-white"> IGCSC and State Board French syllabus</span>.
+  <span className="font-semibold text-white"> IGCSE and State Board French syllabus</span>.
   Join us to achieve fluency with personalized attention and proven teaching methods.
             </motion.p>
             <div className="flex flex-wrap gap-3 mb-8">
   <span className="bg-white/10 px-4 py-2 rounded-lg text-sm">DELF / DALF</span>
   <span className="bg-white/10 px-4 py-2 rounded-lg text-sm">TEF Exam</span>
   <span className="bg-white/10 px-4 py-2 rounded-lg text-sm">Spoken French A & B</span>
-  <span className="bg-white/10 px-4 py-2 rounded-lg text-sm">IGCSC Support</span>
+  <span className="bg-white/10 px-4 py-2 rounded-lg text-sm">IGCSE Support</span>
   <span className="bg-white/10 px-4 py-2 rounded-lg text-sm">State Board Syllabus</span>
 </div>
 

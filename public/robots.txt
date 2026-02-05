@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://https://thefrenchhub24.netlify.app/sitemap.xml
