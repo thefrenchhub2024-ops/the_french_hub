@@ -51,10 +51,4 @@ src/
 - **Text:** #2E2E2E
 - **Fonts:** Poppins, Inter (Google Fonts)
 
-## Configuration
 
-Before going live, update the following:
-
-1. **Enroll Form URL** – In `src/components/Enroll.jsx`, replace `https://forms.google.com/your-link-here` with your actual Google Form link.
-2. **WhatsApp Number** – In `src/components/WhatsAppButton.jsx`, update `WHATSAPP_NUMBER` if needed (format: country code + number, no + or spaces).
-3. **Contact Info** – Update phone, email, Instagram, and address in `src/components/Contact.jsx` and `src/components/Footer.jsx`.
