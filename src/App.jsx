@@ -11,12 +11,13 @@ import Contact from './components/Contact';
 import Enroll from './components/Enroll';
 import Footer from './components/Footer';
 import WhatsAppButton from './components/WhatsAppButton';
-
+import PopupForm from "./components/PopUpform";
 function App() {
   return (
     <div className="min-h-screen bg-[#FAF6F0]">
       <Navbar />
       <main>
+        <PopupForm />
         <Hero />
         <About />
         <WhyChooseUs />
